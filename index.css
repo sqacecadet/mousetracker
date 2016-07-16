@@ -1,0 +1,10 @@
+.reference {
+	background-color: transparent;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	display: inline;
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+}
